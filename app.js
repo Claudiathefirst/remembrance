@@ -84,14 +84,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
             img: 'assets/culture/30.png'
         },
         {
-            name: '31',
-            img: 'assets/culture/301.png'
-        },
-        {
-            name: '31',
-            img: 'assets/culture/31.png'
-        },
-        {
             name: '32',
             img: 'assets/culture/32.png'
         },
@@ -109,28 +101,12 @@ document.addEventListener('DOMContentLoaded', ()=>{
             img: 'assets/culture/33.png'
         },
         {
-            name: '34',
-            img: 'assets/culture/34.png'
-        },
-        {
-            name: '34',
-            img: 'assets/culture/34.png'
-        },
-        {
             name: '35',
             img: 'assets/culture/35.png'
         },
         {
             name: '35',
             img: 'assets/culture/35.png'
-        },
-        {
-            name: '36',
-            img: 'assets/culture/36.png'
-        },
-        {
-            name: '36',
-            img: 'assets/culture/36.png'
         },
         {
             name: '37',
